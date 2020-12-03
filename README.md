@@ -1,8 +1,8 @@
 # Tutorials
 
-| #    | Date       | Title                                                            | Read      |
+| #    | Date       | Title                                                            | Action    |
 |------|------------|------------------------------------------------------------------|-----------|
-| 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | [11 Best Linux Distros for Ethical Hacking and Pentesting in 2020](https://github.com/neoslab/tutorials/blob/master/articles/a59488ee01d7580682fc08fc7286135e.md) |
+| 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | [Read more](https://github.com/neoslab/tutorials/blob/master/articles/a59488ee01d7580682fc08fc7286135e.md) |
 | 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | Read more |
 | 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | Read more |
 | 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | Read more |
