@@ -23,7 +23,6 @@
 | 0019 | 21/05/2020 | How to Hide my IP Address using Torphantom                             | [Read more](https://github.com/neoslab/tutorials/blob/master/articles/171de8b1895e2f4f794f95a0e9c1e138.md) |
 | 0020 | 28/05/2020 | How to Install Arch Linux with LVM and LUKS Disk Encryption            | [Read more](https://github.com/neoslab/tutorials/blob/master/articles/a0a5b66544e6f6b07e0dd9fde48d1537.md) |
 | 0021 | 07/06/2020 | How to Install Metasploit and Armitage on Arch Linux                   | [Read more](https://github.com/neoslab/tutorials/blob/master/articles/cc3db67121649cfc5e04f759441e06a2.md) |
-
 | 0022 | 14/06/2020 | Top 20 Most used Hacking and Pentesting Tools                          | [Read more](https://github.com/neoslab/tutorials/blob/master/articles/3f50658f30aaa5da86dae9acdaf0e4b6.md) |
 | 0023 | 21/06/2020 | How to Route All Traffic Through Tor Network on Arch Linux             | [Read more](https://github.com/neoslab/tutorials/blob/master/articles/04ada2d85a9a455342bf0c3ae8b21bb4.md) |
 | 0024 | 28/06/2020 | Remote Network Penetration via Netbios using Linux and Samba           | [Read more](https://github.com/neoslab/tutorials/blob/master/articles/4d684c7ef1d373b25307e603823e9312.md) |
