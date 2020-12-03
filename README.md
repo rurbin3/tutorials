@@ -2,7 +2,7 @@
 
 | #    | Date       | Title                                                            | Read      |
 |------|------------|------------------------------------------------------------------|-----------|
-| 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | Read more |
+| 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | [11 Best Linux Distros for Ethical Hacking and Pentesting in 2020](https://github.com/neoslab/tutorials/blob/master/articles/a59488ee01d7580682fc08fc7286135e.md) |
 | 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | Read more |
 | 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | Read more |
 | 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | Read more |
@@ -15,7 +15,7 @@
 | 0001 | 07/01/2020 | 11 Best Linux Distros for Ethical Hacking and Pentesting in 2020 | Read more |
 
 
-- [11 Best Linux Distros for Ethical Hacking and Pentesting in 2020](https://github.com/neoslab/tutorials/blob/master/articles/a59488ee01d7580682fc08fc7286135e.md)
+-
 - [4 Ways Hackers make Money using your Data or Credit Card](https://github.com/neoslab/tutorials/blob/master/articles/2106b2ca385594f3c5d8abc9ed51358c.md)
 - [Discover Hidden Subdomains of a given Domain using Dnsmap](https://github.com/neoslab/tutorials/blob/master/articles/15a317a0fc798f51b47f064f85453bd1.md)
 - [Evading Antivirus with Encrypted Payloads using Venom](https://github.com/neoslab/tutorials/blob/master/articles/8f927f9765083d67482a2632b6593671.md)
